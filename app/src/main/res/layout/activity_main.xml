@@ -139,7 +139,7 @@
             android:layout_height="wrap_content"
             android:text="Jenifer"
             android:gravity="center"
-            android:layout_gravity="bottom"
+            android:layout_gravity="center"
             android:textSize="24sp"
             android:textColor="#FFF"/>
         <ImageView
